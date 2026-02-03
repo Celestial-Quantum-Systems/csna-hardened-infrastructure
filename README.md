@@ -1,18 +1,22 @@
-# CSNA 2.0 Hardened Infrastructure
+# ⚔️ Celestial Agentic Defense (CAD)
+### The "Firewall" for the Agentic Economy.
 
-### Procedural Architect: Marcus Pollard
-**Mission:** Rebuilding solid foundations through the synthesis of CISA-grade cybersecurity, Sacred Geometry, and Decentralized AI.
+**Status:** ACTIVE // **Compliance:** OWASP ASI / CNSA 2.0
 
-## Overview
-This repository houses the **"Infrastructure as Code" (IaC)** protocols required to operate sovereign nodes within the CSNA 2.0 ecosystem. It ensures that all digital assets—whether AI trading agents or government contract data—reside on a foundation that meets or exceeds **NIST 800-53** and **NSA Top Ten** mitigation strategies.
+## 💀 The Problem
+In 2026, Cyber-Warfare has shifted from hacking code to **hacking logic**.
+Adversaries are using "Context-Chained Injections" and "Memory Drift" to hijack Autonomous AI Agents, forcing them to liquidate DeFi treasuries or leak sovereign data.
 
-## The Diamond Standard
-We do not rely on default configurations. This infrastructure enforces:
-1.  **Zero-Trust Architecture:** No unauthorized ingress; rigorous identity verification.
-2.  **Modular Resilience:** Systems are designed to fail-safe and self-heal.
-3.  **Audit Compliance:** Every operational tier is logged for OIG/Fiduciary review.
+## 🛡️ The Solution
+**Celestial Agentic Defense** is a repository of hardened Python guardrails and Threat Doctrines designed to immunize Large Language Models (LLMs) against:
+* **ASI01:** Agent Goal Hijacking
+* **ASI06:** Memory & Context Poisoning
+* **ASI10:** Rogue Agent Emergence
 
-## Usage
-The `hardening_protocol.sh` script is the primary initialization vector for any new server entering the network.
+## 🚀 Capabilities
+1.  **Semantic Firewall:** Pre-filters all Oracle feeds for "Logic Bombs."
+2.  **Quantum-Safe Validation:** Detects "Post-Quantum Obfuscation" attacks.
+3.  **Governance:** Enforces immutable "Constitutional AI" states.
 
-> "Order from Chaos through Geometrical Precision and Fortress Security."
+---
+*Built by Celestial Quantum Systems. Architecting the Immune System of the Singularity.*
